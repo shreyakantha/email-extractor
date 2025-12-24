@@ -35,7 +35,7 @@ CodeAlpha_EmailExtractor/
 Clone the repository using Git :
 ```Bash
 git clone https://github.com/shreyakantha/CodeAlpha_EmailExtractor
-cd CodeAlpha_Email_Extractor
+cd CodeAlpha_EmailExtractor
 ```
     
 ## 🖥 Run Locally
