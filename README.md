@@ -34,20 +34,24 @@ CodeAlpha_EmailExtractor/
 ## 📥 Installation
 Clone the repository using Git :
 ```Bash
-git clone https://github.com/shreyakantha/CodeAlpha_EmailExtractor
+  git clone https://github.com/shreyakantha/CodeAlpha_EmailExtractor
 cd CodeAlpha_EmailExtractor
 ```
     
 ## 🖥 Run Locally
-Make sure Python is installed, then run :
-```Bash
-python EmailExtractor.py
+Navigate to the location of your file :
+```bash
+  cd CodeAlpha_EmailExtractor
+```
+Run the script :
+```bash
+ python EmailExtractor.py
 ```
 
 ## 🎥 Demo
 *A video demonstration showing the complete working of the Email Extraction Automation script. The video covers the Python source code, the input text file containing sample email addresses, execution of the script, and the automatically generated output file with all extracted unique emails.*
 
-[ ▶ Click here to view the demo video of the Hangman game ](https://github.com/shreyakantha/CodeAlpha_EmailExtractor/releases/tag/v1.0)
+[ ▶ Click here to view the demo video of the email extraction automation ](https://github.com/shreyakantha/CodeAlpha_EmailExtractor/releases/tag/v1.0)
 
 ## 📝  Usage/Example
 The example below shows how the script reads a text file containing email addresses and extracts all valid entries into a separate output file.
