@@ -38,18 +38,19 @@ Automate the extraction of email addresses from a text file and store them in a 
 
 ## 📂 Project Structure
 ```bash
-CodeAlpha_EmailExtractor/
+email-extractor/
 ├── EmailExtractor.py     # Main Python script
 ├── input.txt             # Input text file with sample data
-└── README.md             # Project documentation
+├── README.md             # Project documentation
+└── LICENSE               # MIT LICENSE
 ```
 ---
 ## 📥 Installation
 Clone the repository using Git :
 ```Bash
 git clone
-https://github.com/shreyakantha/CodeAlpha_EmailExtractor
-cd CodeAlpha_EmailExtractor
+https://github.com/shreyakantha/email-extractor
+cd email-extractor
 ```
 ---
 ## 🖥 Run Locally
@@ -61,7 +62,7 @@ Run the script using :
 ## 🎥 Demo
 A video demonstration showing the complete working of the Email Extraction Automation script. The video covers the Python source code, the input text file containing sample email addresses, execution of the script, and the automatically generated output file with all extracted unique emails.
 
-[ ▶ click here to view the demo video of the email extraction automation ](https://github.com/shreyakantha/CodeAlpha_EmailExtractor/releases/tag/v1.0)
+[ ▶ click here to view the demo video of the email extraction automation ](https://github.com/shreyakantha/email-extractor/releases/tag/v1.0)
 
 ---
 ## 📝  Usage/Example
@@ -123,8 +124,7 @@ The project follows a simple and readable structure. The script is short and sel
 ---
 
 ## 👤 Author
-**Shreya Kantha** 
-- GitHub : [@shreyakantha](https://github.com/shreyakantha)
+- [@shreyakantha](https://github.com/shreyakantha)
 
 ---
 
@@ -164,6 +164,6 @@ This project was completed as ***The third task which is Task Automation with Py
 ---
 ## 📌 Related Projects
 *The following projects were completed as part of the same **CodeAlpha internship** program and focus on strengthening core Python programming concepts.*
--  🔗 [Hangman Game – Python fundamentals and control flow](https://github.com/shreyakantha/CodeAlpha_HangmanGame)
--  🔗 [Stock Portfolio Tracker – Data processing using Python](https://github.com/shreyakantha/CodeAlpha_StockPortfolioTracker)
--  🔗 [Basic Chatbot – Rule-based conversation using conditional logic](https://github.com/shreyakantha/CodeAlpha_BasicChatbot)
+-  🔗 [Hangman Game – Python fundamentals and control flow](https://github.com/shreyakantha/hangman-console-game)
+-  🔗 [Stock Portfolio Tracker – Data processing using Python](https://github.com/shreyakantha/stock-portfolio-tracker)
+-  🔗 [Basic Chatbot – Rule-based conversation using conditional logic](https://github.com/shreyakantha/basic-chatbot)
