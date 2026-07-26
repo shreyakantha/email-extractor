@@ -122,12 +122,6 @@ This is a local Python script and does not require deployment. It can be execute
 The project follows a simple and readable structure. The script is short and self-explanatory, with clear function naming and logical flow. Detailed usage instructions and examples are provided in this `README.md`.
 
 ---
-
-## 👤 Author
-- [@shreyakantha](https://github.com/shreyakantha)
-
----
-
 ## 🙌 Acknowledgements
 - CodeAlpha Internship Program for providing the task and learning opportunity
 - Python official documentation for file handling and regular expressions
